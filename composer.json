@@ -4,7 +4,7 @@
     "type": "library",
     "license": "Apache-2.0",
     "keywords": ["php", "apple-pay", "openssl", "decryption"],
-    "homepage": "https://github.com/PayU/apple-pay",
+    "homepage": "https://github.com/runexoda/apple-pay",
     "authors": [
         {
             "name": "PayU Romania",
